@@ -3,12 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7B93E,100:6DB33F&height=200&section=header&text=Hi%2C%20I'm%20Hoang%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
-<!-- ===== TYPING EFFECT ===== -->
-<p align="center">
-  <a href="https://github.com/HoanggNQ">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7B93E&center=true&vCenter=true&width=900&lines=Java+%2F+Spring+Boot+Developer;Backend+Engineer+%26+Android+Enthusiast;Microservices+%7C+Kafka+%7C+RabbitMQ+%7C+Camunda;Always+Learning+New+Tech+🚀" alt="Typing SVG"/>
-  </a>
-</p>
+<h3 align="center">Java / Spring Boot Developer · Backend Engineer · Android Enthusiast</h3>
+<p align="center"><i>Microservices | Kafka | RabbitMQ | Camunda — Always learning new tech 🚀</i></p>
 
 <!-- ===== PROFILE STATS ===== -->
 <p align="center">
@@ -78,16 +74,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoanggNQ&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoanggNQ&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HoanggNQ&theme=radical&hide_border=true" height="170"/>
-</p>
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HoanggNQ&theme=radical&no-frame=true&column=7&margin-w=8" alt="trophies"/>
